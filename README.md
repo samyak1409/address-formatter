@@ -18,3 +18,7 @@ as you like.
 ## AND
 
 If you have a Google Places API key, paste that in the code, and then experience the **MAGIC** :)
+
+## Sample Screenshot
+
+<img src="Screenshot.png">
